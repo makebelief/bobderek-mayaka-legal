@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bobderek-mayaka-legal.vercel.app/sitemap.xml
